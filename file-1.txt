@@ -5,5 +5,7 @@ this is a test
 -links
 -cats
 -cart
+-about
+-account
 
 copyright 2016
