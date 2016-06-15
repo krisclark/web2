@@ -10,4 +10,6 @@ this is a test
 -feature 3
 -feature 4
 
+hello something else
+
 copyright 2016
