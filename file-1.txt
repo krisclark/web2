@@ -3,10 +3,9 @@ company logo
 this is a test
 
 -links
--cats
--cart
 -about
+-History
 -account
--checkout
+-222
 
 copyright 2016
